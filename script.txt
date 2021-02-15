@@ -1,0 +1,19 @@
+Welcome to the game!
+
+chunk 1
+Are you ready to play?
+pause
+Okay! Let's do it! Wait for 5 seconds...
+wait 5
+blank
+Here are your options...
+choose Bedroom, Bathroom, Attic
+
+chunk bedroom 
+You are in the bedroom
+
+chunk bathroom 
+You are in the bathroom 
+
+chunk attic 
+You are in the attic
